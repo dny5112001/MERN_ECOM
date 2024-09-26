@@ -15,7 +15,7 @@ app.use(cors());
 
 // Database connection with mongodb
 mongoose.connect(
-  "mongodb+srv://deepakyadav20011114:Project1213181%40@cluster0.1gtzsqa.mongodb.net/e-commerce"
+  "Add your own api"
 );
 
 //API creation
